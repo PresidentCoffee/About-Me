@@ -2,7 +2,6 @@
 
 ## ABOUT ME 
 
-- I'm currently learning the *Python* coding language. 🐍
 - I've just started using *GitHub* and have minimal experience with it. 💻
 - I have some experience with developing games in *Roblox Studio*.
 - I want to be a professional UX / UI designer for websites, apps, extensions, etc. 👨‍💻
